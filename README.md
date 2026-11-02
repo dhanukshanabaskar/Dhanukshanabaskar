@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dhanukshana 👋
 
-<!--
-**dhanukshanabaskar/Dhanukshanabaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & ML Engineering Student
 
-Here are some ideas to get you started:
+I'm a student exploring the world of programming, artificial intelligence and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently Learning
+- Python
+- Data Structures and Algorithms
+- Git & GitHub
+- Web Development
+- Artificial Intelligence and Machine Learning
+
+### 🚀 Projects
+Projects I'm building to improve my programming and problem-solving skills:
+
+- Personal Expense Tracker — Coming soon
+- Python File Organizer — Coming soon
+- CSV Data Analyzer — Coming soon
+
+### 🎯 My Goals
+- Build practical software projects.
+- Improve my problem-solving skills.
+- Explore AI, automation and real-world applications.
+- Collaborate with other developers.
+
+### 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/dhanukshanabaskar/]
+
+Always learning, building and experimenting.
